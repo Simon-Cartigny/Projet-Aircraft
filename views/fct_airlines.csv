@@ -1,0 +1,10 @@
+AIRLINE_CODE,AIRLINE_NAME,YEAR,TOTAL_REVENUE,METRIQUE
+AA,Amazon Airlines,2015,9175044.0,Revenu Domestique
+FA,Flock Air,2016,13405774.0,Revenu Domestique
+GA,Goose Airways,2016,34637841.0,Revenu Domestique
+AA,Amazon Airlines,2016,2792855.0,Revenu International
+FA,Flock Air,2016,3912894.0,Revenu International
+GA,Goose Airways,2015,15219579.0,Revenu International
+AA,Amazon Airlines,2015,11912594.0,Revenu Total
+FA,Flock Air,2016,17318668.0,Revenu Total
+GA,Goose Airways,2016,49260222.0,Revenu Total
